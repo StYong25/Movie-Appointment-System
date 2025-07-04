@@ -1,0 +1,5 @@
+customer,Happy,23,1234@gmail.com,F,passwordA1-Staff,Satan,34,Satan@gmail.com,M,Satan1234-
+Staff,Sad,23,sad@gmail.com,M,Sad12345-
+Staff,test,23,test@gmail.com,M,test1234Q-
+customer,test,23,test@gmail.com,M,test1234Q-s
+

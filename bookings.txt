@@ -1,0 +1,6 @@
+BGK001,Andy See,Honkai/Zero Impact,13/05/2024 (Thu),Morning (8:00 am),Hall Violet,2,B9 D5,25.0
+BGK002,Andy Soo,What Is Your Name?,13/05/2024 (Thu),Evening (4:00 pm),Hall Magnenta,4,B2 B3 B4 B5,40.0
+BGK004,Xin Lin,Honkai/Zero Impact,13/05/2024 (Thu),Morning (8:00 am),Hall Violet,2,B6 B7,25.0
+BGK005,Yeong Hong Zhen,Internet Overdose,14/05/2024 (Fri),Evening (4:00 pm),Hall Turquish,1,C8,8.5
+BGK006,Darren Liow,Deadpool May Cry,14/05/2024 (Fri),Evening (4:00 pm),Hall White,2,D5 D6,20.0
+BGK007,Ng Inn Xiang,Internet Overdose,14/05/2024 (Fri),Morning (8:00 am),Hall Turquish,3,C4 C5 C6,36.0

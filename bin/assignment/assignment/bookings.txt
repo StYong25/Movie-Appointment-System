@@ -1,0 +1,1 @@
+Booking ID: BKG1, Customer: 1, Movie: 1, Date: 1, Time: 1, Hall: 1, Quantity: 1, Seat: 1, Price: 1.0

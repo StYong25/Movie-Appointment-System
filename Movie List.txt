@@ -1,0 +1,122 @@
+Movie List
+--------------------------------------------------
+
+(Movie 1)
+Movie Name      : Celestial Nexus
+Genre           : Anime, Fantasy, Action
+Language        : Japanese
+Duration        : 130 minutes
+Price           : RM 14.00
+Total View      : 3,456,789 views
+Rating          : 4.7/5
+
+Description     :
+Embark on a mystical adventure with the Guardians of Celestia as they protect the sacred Nexus from dark forces seeking to disrupt the balance of the universe. With breathtaking visuals and exhilarating battles, Celestial Nexus is an unforgettable cinematic experience.
+
+(Movie 2)
+Movie Name      : Abyssal Wraith
+Genre           : Anime, Horror, Action
+Language        : Japanese
+Duration        : 110 minutes
+Price           : RM 11.50
+Total View      : 2,987,654 views
+Rating          : 4.3/5
+
+Description     :
+Dive into the terrifying world of Abyssal Wraith, where a group of warriors faces nightmarish creatures from the abyss in a desperate fight for survival. This spine-chilling anime delivers both horror and heart-pounding action.
+
+(Movie 3)
+Movie Name      : Cyber Tempest
+Genre           : Anime, Sci-Fi, Action
+Language        : Japanese
+Duration        : 125 minutes
+Price           : RM 13.50
+Total View      : 4,123,987 views
+Rating          : 4.8/5
+
+Description     :
+In a futuristic world dominated by technology, Cyber Tempest follows the journey of a rogue AI and its human allies as they battle against a tyrannical regime. With stunning sci-fi visuals and gripping action sequences, this anime is a must-watch.
+
+(Movie 4)
+Movie Name      : Eternal Exile
+Genre           : Anime, Fantasy, Drama
+Language        : Japanese
+Duration        : 140 minutes
+Price           : RM 15.00
+Total View      : 1,234,567 views
+Rating          : 4.4/5
+
+Description     :
+Experience the emotional saga of Eternal Exile, where exiled warriors must reclaim their lost kingdom from malevolent spirits. This anime weaves together intense drama and action, creating a powerful narrative that will resonate with audiences.
+
+(Movie 5)
+Movie Name      : Phantom Samurai
+Genre           : Anime, Historical, Action
+Language        : Japanese
+Duration        : 115 minutes
+Price           : RM 12.00
+Total View      : 2,765,432 views
+Rating          : 4.6/5
+
+Description     :
+Journey through ancient Japan in Phantom Samurai, where a legendary warrior returns from the dead to seek vengeance on those who wronged him. With intense sword fights and a gripping story, this anime is a masterpiece of historical action.
+
+(Movie 6)
+Movie Name      : Astral Frontier
+Genre           : Anime, Adventure, Action
+Language        : Japanese
+Duration        : 135 minutes
+Price           : RM 14.50
+Total View      : 3,098,765 views
+Rating          : 4.7/5
+
+Description     :
+Embark on an epic quest across the cosmos in Astral Frontier, where a group of heroes must navigate treacherous worlds to save their galaxy from annihilation. This anime is a visual spectacle with a heart-pounding narrative.
+
+(Movie 7)
+Movie Name      : Shadow Dominion
+Genre           : Anime, Dark Fantasy, Action
+Language        : Japanese
+Duration        : 120 minutes
+Price           : RM 12.50
+Total View      : 4,567,890 views
+Rating          : 4.5/5
+
+Description     :
+Enter the shadowy realm of Shadow Dominion, where dark magic reigns supreme and only a few brave souls dare to resist. This anime is a dark fantasy epic filled with intense action and a gripping plot.
+
+(Movie 8)
+Movie Name      : Titanfall Requiem
+Genre           : Anime, Mecha, Action
+Language        : Japanese
+Duration        : 130 minutes
+Price           : RM 14.00
+Total View      : 3,876,543 views
+Rating          : 4.8/5
+
+Description     :
+Witness the colossal battles of Titanfall Requiem, where giant mechs clash in a war that will determine the fate of humanity. This anime delivers jaw-dropping action sequences and a story that will keep you on the edge of your seat.
+
+(Movie 9)
+Movie Name      : Genesis Zero
+Genre           : Anime, Sci-Fi, Action
+Language        : Japanese
+Duration        : 125 minutes
+Price           : RM 13.50
+Total View      : 2,345,678 views
+Rating          : 4.6/5
+
+Description     :
+In a dystopian future, Genesis Zero follows a group of rebels as they fight against an oppressive regime using advanced biotechnology. This anime is a thrilling blend of sci-fi action and deep storytelling.
+
+(Movie 10)
+Movie Name      : Valkyrie Uprising
+Genre           : Anime, Fantasy, Action
+Language        : Japanese
+Duration        : 120 minutes
+Price           : RM 12.50
+Total View      : 2,654,321 views
+Rating          : 4.5/5
+
+Description     :
+Join the fierce Valkyries in their uprising against the gods in this action-packed anime. With a rich fantasy setting and epic battles, Valkyrie Uprising is a thrilling tale of rebellion and divine warfare.
